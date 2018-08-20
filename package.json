@@ -60,5 +60,8 @@
     "less",
     "less.js",
     "lesscss"
-  ]
+  ],
+  "dependencies": {
+    "grunt-cli": "^1.3.1"
+  }
 }
